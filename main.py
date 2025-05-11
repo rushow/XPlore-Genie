@@ -164,7 +164,7 @@ async def run_agent(message: str):
     
 # Configure the page
 st.set_page_config(
-    page_title="AI Travel Planner",
+    page_title="XPlore Genie",
     page_icon="✈️",
     layout="wide"
 )
